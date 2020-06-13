@@ -1,0 +1,78 @@
+Script started on 2020-06-13 13:47:50+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="122" LINES="30"]
+[1m[7m%[27m[1m[0m                                                                                                                          ]2;ashpratap007@smit-Lenovo-G50-45: ~/GitRepo/learning_git]1;../learning_git[0m[27m[24m[J[01;32m➜  [36mlearning_git[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hg[1m[31mg[1m[31mi[0m[39m[90mt clone https://github.com/ashpratap007/learning_git.git[39m[56D[0m[32mg[0m[32mi[32mt[39m[39m [39mb[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [53Dranch[?1l>[?2004l
+]2;git branch]1;git[?1049h[22;0;0t[?1h=* [32mmaster[m[m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+* [32mmaster[m[m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K [KESCESC[K::[K[7m(END)[27m[K[K[?1l>[?1049l[23;0;0t
+[1m[7m%[27m[1m[0m                                                                                                                          ]2;ashpratap007@smit-Lenovo-G50-45: ~/GitRepo/learning_git]1;../learning_git[0m[27m[24m[J[01;31m➜  [36mlearning_git[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[33m![39m[39m [32mg[39m[90mit branch[39m[9D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39mb[39mr[39ma[39mn[39mc[39mh feture     ature1[?1l>[?2004l
+]2;git branch feature1]1;git[1m[7m%[27m[1m[0m                                                                                                                          ]2;ashpratap007@smit-Lenovo-G50-45: ~/GitRepo/learning_git]1;../learning_git[0m[27m[24m[J[01;32m➜  [36mlearning_git[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[32mgit[39m branch feature1[90m1[39m[90me[90mr[90mu[90mt[90ma[90me[90mf[90m [39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[?1l>[?2004l
+]2;git branch]1;git[?1049h[22;0;0t[?1h=  feature1[m[m
+* [32mmaster[m[m
+[7m(END)[27m[K[K[?1l>[?1049l[23;0;0t[1m[7m%[27m[1m[0m                                                                                                                          ]2;ashpratap007@smit-Lenovo-G50-45: ~/GitRepo/learning_git]1;../learning_git[0m[27m[24m[J[01;32m➜  [36mlearning_git[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[32mg[39m[90mit branch[39m[9D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4mc[24m[90ml[90mo[90mn[90me[90m [90mhttps://github.com/ashpratap007/learning_git.git[39m[53D[24mc[39mh[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [52Deckout fet ature1[?1l>[?2004l
+]2;git checkout feature1]1;gitSwitched to branch 'feature1'
+[1m[7m%[27m[1m[0m                                                                                                                          ]2;ashpratap007@smit-Lenovo-G50-45: ~/GitRepo/learning_git]1;../learning_git[0m[27m[24m[J[01;32m➜  [36mlearning_git[00m [01;34mgit:([31mfeature1[34m) [33m✗[00m [K[?1h=[?2004h[32ml[39m[90ms -lrt[39m[32ml[32ms[39m[39m [39m-[39ml[39mr[39mt[?1l>[?2004l
+]2;ls --color=tty -lrt]1;lstotal 16
+-rw-rw-r-- 1 ashpratap007 ashpratap007   24 Jun 13 13:39 third_file
+-rw-rw-r-- 1 ashpratap007 ashpratap007   25 Jun 13 13:39 second_file
+-rw-rw-r-- 1 ashpratap007 ashpratap007    0 Jun 13 13:39 LICENSE
+-rw-rw-r-- 1 ashpratap007 ashpratap007   37 Jun 13 13:39 ashish.c
+-rw-rw-r-- 1 ashpratap007 ashpratap007 4096 Jun 13 13:48 commands_history
+[1m[7m%[27m[1m[0m                                                                                                                          ]2;ashpratap007@smit-Lenovo-G50-45: ~/GitRepo/learning_git]1;../learning_git[0m[27m[24m[J[01;32m➜  [36mlearning_git[00m [01;34mgit:([31mfeature1[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mv[0m[39m[0m[32mv[32mi[39m [4ms[24m[24m [1m[31mv[0m[39m[39m [0m[39m [32mg[39m[90mit checkout feature1[39m[20D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4ms[24m[90mt[90ma[90mt[90mu[90ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[24ms[39mt[39ma[39mt[39mu[39ms[?1l>[?2004l
+]2;git status]1;gitOn branch feature1
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   third_file[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mcommands_history[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                          ]2;ashpratap007@smit-Lenovo-G50-45: ~/GitRepo/learning_git]1;../learning_git[0m[27m[24m[J[01;32m➜  [36mlearning_git[00m [01;34mgit:([31mfeature1[34m) [33m✗[00m [K[?1h=[?2004h[32mg[39m[90mit status[39m[9D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4ma[24m[90md[90md[90m [90m.[39m[39m [24ma[39md[4ma[24m[90md[24m[90ms[90mt[90ma[90mt[90mu[90ms[39m[90m [1m[31mg[1m[31mi[0m[39m[90mt[0m[32mg[39m[0m[90mi[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[32mg[39m[90mit status[39m[9D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4mc[24m[90mh[90me[90mc[90mk[90mo[90mut feature1[39m[16D[24mc[39mh[39me[39mc[39mc[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12Dk [90mk[90mout feature1[39m[13D[39mk[39mo[39mu[39mt[39m [39mm[39m [39m [39m [39m [39m [39m [39m aster[?1l>[?2004l
+]2;git checkout master]1;gitM	third_file
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+[1m[7m%[27m[1m[0m                                                                                                                          ]2;ashpratap007@smit-Lenovo-G50-45: ~/GitRepo/learning_git]1;../learning_git[0m[27m[24m[J[01;32m➜  [36mlearning_git[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[32mg[39m[90mit checkout master[39m[18D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m[4ms[24m[90mt[90ma[90mt[90mu[90ms[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[24ms[39mt[39ma[39mt[39mu[39ms[?1l>[?2004l
+]2;git status]1;gitOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   third_file[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mcommands_history[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                          ]2;ashpratap007@smit-Lenovo-G50-45: ~/GitRepo/learning_git]1;../learning_git[0m[27m[24m[J[01;32m➜  [36mlearning_git[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mc[0m[39m[90md learning_git[39m[14D[0m[32mc[32md[39m[39m [90m [1m[31mc[0m[39m[90md[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[32mg[39m[90mit status[39m[9D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [90m [1m[31mg[1m[31mi[0m[39m[90mt[0m[32mg[39m[0m[90mi[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[32mg[39m[90mit status[39m[9D[1m[31mg[1m[31mi[0m[39m[0m[32mg[
